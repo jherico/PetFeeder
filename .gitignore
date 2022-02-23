@@ -1,0 +1,4 @@
+!.gitignore
+!.clang-format
+src/main/resources/secrets
+src/main/esp32-cam/PetFeeder/secrets.h
